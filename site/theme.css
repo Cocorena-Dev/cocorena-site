@@ -1,3 +1,35 @@
 body {
-  background-color: pink;
+ background-color: #002790;
+ text-align: center;
+}
+#main {
+ width: 1500px;
+ height:875px;
+ background-color: #1B85B8;
+ margin: 25px auto;
+ border: solid 5px #bfbfbf;
+}
+h1 {
+  text-align: left;
+  font-family: cursive;
+  font-size: 40pt;
+  color: #000000;
+}
+h2 {
+  text-align: center;
+  font-family: "arial black";
+  font-size: 35pt;
+  color: #cdd0c6;
+}
+h3 {
+  text-align: center;
+  font-family: "arial black";
+  font-size: 30pt;
+  color: #cdd0c6;
+}
+h4{
+  text-align: center;
+  font-family: "arial black";
+  font-size: 25pt;
+  color: #cdd0c6;
 }
